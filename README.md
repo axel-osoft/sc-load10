@@ -23,7 +23,7 @@
 
 Its main goal is to help you to write **concise** and **correct** software without slowing down your code.
 
-xxxxx
+xxxxxXXXXXXXXXXx
 ## SponsorsxxxxxxxxxxxxxxxyyyyyyyXXX
 
 *attrs* would not be possible without our [amazing sponsors](https://github.com/sponsors/hynek).
